@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(59,9): warning C4101: 'num': unreferenced local variable
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(96,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(96,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(100,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(100,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(104,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(104,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(86,9): warning C4101: 'size': unreferenced local variable
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(162,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(262,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(262,23): message : consider using '%hi' in the format string
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(266,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(266,23): message : consider using '%hi' in the format string
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(270,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\Documents\GitHub\Contact-book\C Programming\main.c(270,23): message : consider using '%hi' in the format string
+  C Programming.vcxproj -> C:\Users\lfesc\Documents\GitHub\Contact-book\x64\Debug\C Programming.exe

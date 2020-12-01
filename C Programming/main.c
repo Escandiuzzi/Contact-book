@@ -3,8 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-const FILEPATH = "C:\\Users\\lfesc\\source\\repos\\C Programming\\C Programming\\contacts.dat";
+static const char FILEPATH[] = "C:\\Users\\lfesc\\Documents\\GitHub\\Contact-book\\C Programming\\contacts.dat";
 
 int count = 0;
 
