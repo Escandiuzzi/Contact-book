@@ -1,0 +1,22 @@
+﻿  main.c
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(7,95): warning C4047: 'initializing': 'const int' differs in levels of indirection from 'char [69]'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(65,23): warning C4047: 'function': 'const char *' differs in levels of indirection from 'const int'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(65,15): warning C4024: 'fopen': different types for formal and actual parameter 1
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(60,9): warning C4101: 'num': unreferenced local variable
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(97,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(97,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(101,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(101,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(105,11): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(105,11): message : consider using '%hi' in the format string
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(87,9): warning C4101: 'size': unreferenced local variable
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(163,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(215,31): warning C4047: 'function': 'const char *' differs in levels of indirection from 'const int'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(215,23): warning C4024: 'fopen': different types for formal and actual parameter 1
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(263,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(263,23): message : consider using '%hi' in the format string
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(267,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(267,23): message : consider using '%hi' in the format string
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(271,23): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned short *'
+C:\Users\lfesc\source\repos\C Programming\C Programming\main.c(271,23): message : consider using '%hi' in the format string
+  C Programming.vcxproj -> C:\Users\lfesc\source\repos\C Programming\Debug\C Programming.exe
